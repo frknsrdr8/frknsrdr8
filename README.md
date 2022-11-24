@@ -34,8 +34,3 @@
 
 
 
-[linkedin]  https://www.linkedin.com/in/yu5ufyilmaz/
-
-[twitter] https://twitter.com/yu5ufyilmaz
-
-[instagram] https://www.instagram.com/yu5ufyilmaz/
