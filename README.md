@@ -1,14 +1,10 @@
-<img src ="https://media.giphy.com/media/lRdejWPe1qsdZLh6Ws/giphy-downsized-large.gif" align="right" width= "400" height="250">
+### Hi everyone,I'm Furkan.:wave:
 
-### Hi everyone,I'm Yusuf.:wave:
-
-## Game Developer | Blockchain Developer | Digital Game Design Student
-
-<font color ="red">Tea :tea: is how I keep up with '<code />' </font>
+## Game Developer | Digital Game Design Student
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align ="left" />](linkedin)
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align ="left" />](https://www.linkedin.com/in/yu5ufyilmaz/)
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align ="left" />](twitter)
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align ="left" />](instagram)
 
