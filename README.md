@@ -4,7 +4,7 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align ="left" />](linkedin)
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align ="left" />](www.linkedin.com/in/furkanserdar)
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align ="left" />](twitter)
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align ="left" />](https://www.instagram.com/frkn.srdr8/)
 
